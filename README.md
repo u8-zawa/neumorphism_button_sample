@@ -27,11 +27,3 @@ New（新しい）+ Skeumophism（スキューモーフィズム）として作�
 | :hankey: | `:hankey:` | 非推奨追加（Deprecation） |  
 | :wastebasket: | `:wastebasket:` | 削除（Removal） |  
 | :construction: | `:construction:` | WIP（Work In Progress） |
-
-
-git init
-git add .
-git commit -m ":tada:first commit"
-git branch -M main
-git remote add origin https://github.com/yu-8zawa/neumorphism_button_sample.git
-git push -u origin main
